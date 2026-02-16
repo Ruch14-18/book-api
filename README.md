@@ -5,10 +5,11 @@
 Build a simple REST API to manage books using in-memory storage.
 
 ->  Features
-- GET all books
-- POST add book
-- PUT update book
-- DELETE remove book
+- GET all books(get.png)
+- POST add book(post.png)
+- PUT update book(put.png)
+- DELETE remove book(delete.png)
+- Preview(finalop.png)
 
 -> How to Run
 npm install
