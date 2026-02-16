@@ -5,7 +5,7 @@
 Build a simple REST API to manage books using in-memory storage.
 
 ->  Features
-- GET all books get.png
+- GET all books 
 - POST add book 
 - PUT update book
 - DELETE remove book
